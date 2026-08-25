@@ -9,12 +9,13 @@ The main problem is to find the shortest possible path from the starting point t
 
 This project is interesting because I don't have good orientation sense so I often take a route 2 times longer than the fastest when I don't use google maps of if I don't have connexion . 
 
-Algorithm /n
-Create a map 
-Ask for a starting position
-Ask for a destination
-Check if the positions are valid
-Find the right path through the matrix 
-Stop when destination is found 
-Show the path and its length
-Tell the user if no path exists
+Algorithm  
+
+Create a map  
+Ask for a starting position  
+Ask for a destination    
+Check if the positions are valid  
+Find the right path through the matrix  
+Stop when destination is found   
+Show the path and its length  
+Tell the user if no path exists  
