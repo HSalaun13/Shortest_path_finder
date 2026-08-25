@@ -3,7 +3,7 @@ Fundamentos de programación  project
 
 If we where in a world without google map or satelite gps, finding the shortest path between two point would be a real problem to go through a city in a hurry, finding a route in a maze etc.
 
-For this project, a map is represented as a matrix. Each position of the matrix represents a location that can either be accessible or blocked by an obstacle. The user provides a starting point and a destination point, and the program determines a possible path between them.
+For this project, a map is represented as a matrix. Each position of the matrix represents a location that can either be accessible or blocked by an obstacle. The user provides a starting point and a destination point, and the program determines a possible path between them using loops, maybye files to have trajects historic.
 
 The main problem is to find the shortest possible path from the starting point to the destination while avoiding obstacles and staying within the limits of the map.
 
