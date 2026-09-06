@@ -17,3 +17,6 @@ Algorithm
 6.Stop when destination is found   
 7.Show the path and its length  
 8.Tell the user if no path exists  
+
+Functions.py
+
